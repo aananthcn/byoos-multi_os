@@ -1,0 +1,7 @@
+tags
+*.o
+byoos
+*.bin
+*.p
+cscope.out
+*.map
